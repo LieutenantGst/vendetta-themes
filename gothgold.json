@@ -14,36 +14,37 @@
     "TEXT_NORMAL": ["#d4af37"],
     "TEXT_MUTED": ["#a38b2a"],
     "TEXT_LINK": ["#d4af37"],
+
     "INTERACTIVE_NORMAL": ["#d4af37"],
     "INTERACTIVE_HOVER": ["#f5d76e"],
     "INTERACTIVE_ACTIVE": ["#ffd700"],
     "INTERACTIVE_MUTED": ["#5a4a1a"],
 
-    "BACKGROUND_PRIMARY": ["#000000"],
-    "BACKGROUND_SECONDARY": ["#0a0a0a"],
-    "BACKGROUND_SECONDARY_ALT": ["#111111"],
-    "BACKGROUND_TERTIARY": ["#000000"],
-    "BACKGROUND_ACCENT": ["#111111"],
+    "BACKGROUND_PRIMARY": ["#00000000"],
+    "BACKGROUND_SECONDARY": ["#00000099"],
+    "BACKGROUND_SECONDARY_ALT": ["#000000cc"],
+    "BACKGROUND_TERTIARY": ["#00000099"],
+    "BACKGROUND_ACCENT": ["#000000cc"],
 
-    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#0a0a0a"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000099"],
 
-    "BACKGROUND_MESSAGE_HOVER": ["#111111"],
-    "BACKGROUND_MODIFIER_HOVER": ["#111111"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#1a1a1a"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#111111"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#1a1a1a"],
+    "BACKGROUND_MESSAGE_HOVER": ["#000000aa"],
+    "BACKGROUND_MODIFIER_HOVER": ["#000000aa"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#000000cc"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#000000aa"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#000000cc"],
 
     "CHANNEL_ICON": ["#d4af37"],
-    "CHAT_BACKGROUND": ["#000000"],
+    "CHAT_BACKGROUND": ["#00000000"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#8c7a2f"],
 
     "TEXT_DANGER": ["#ff4d4d"],
 
-    "CARD_PRIMARY_BG": ["#0a0a0a"],
-    "CARD_SECONDARY_BG": ["#000000"],
+    "CARD_PRIMARY_BG": ["#00000099"],
+    "CARD_SECONDARY_BG": ["#000000cc"],
 
-    "SPOILER_HIDDEN_BACKGROUND": ["#111111"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#000000cc"]
   },
   "rawColors": {
     "BLACK_500": "#000000",
@@ -65,8 +66,8 @@
     "WHITE_500": "#d4af37"
   },
   "background": {
-    "blur": 1.0,
-    "url": "https://raw.githubusercontent.com/LieutenantGst/vendetta-themes/main/Untitled26_20240707125346.jpeg",
+    "blur": 0.3,
+    "url": "https://raw.githubusercontent.com/slick787/Golden/main/Untitled26_20240707125346.jpeg",
     "alpha": 1.0
   }
 }
