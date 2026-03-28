@@ -21,13 +21,13 @@
     "INTERACTIVE_MUTED": ["#5a4a1a"],
 
     "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_SECONDARY": ["#00000099"],
+    "BACKGROUND_SECONDARY": ["#000000cc"],
     "BACKGROUND_SECONDARY_ALT": ["#000000cc"],
-    "BACKGROUND_TERTIARY": ["#00000099"],
+    "BACKGROUND_TERTIARY": ["#000000cc"],
     "BACKGROUND_ACCENT": ["#000000cc"],
 
     "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#00000099"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#000000cc"],
 
     "BACKGROUND_MESSAGE_HOVER": ["#000000aa"],
     "BACKGROUND_MODIFIER_HOVER": ["#000000aa"],
@@ -41,7 +41,7 @@
 
     "TEXT_DANGER": ["#ff4d4d"],
 
-    "CARD_PRIMARY_BG": ["#00000099"],
+    "CARD_PRIMARY_BG": ["#000000cc"],
     "CARD_SECONDARY_BG": ["#000000cc"],
 
     "SPOILER_HIDDEN_BACKGROUND": ["#000000cc"]
@@ -66,8 +66,8 @@
     "WHITE_500": "#d4af37"
   },
   "background": {
-    "blur": 0.3,
-    "url": "https://i.imgur.com/aBBHO4O.jpeg",
+    "blur": 0.2,
+    "url": "https://i.imgur.com/8w0pYkX.jpeg",
     "alpha": 1.0
   }
 }
