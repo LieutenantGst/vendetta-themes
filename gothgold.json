@@ -1,6 +1,6 @@
 {
   "name": "gothgold",
-  "description": "a gothic gold theme from enmity",
+  "description": "a gothic gold theme",
   "spec": 2,
   "authors": [
     {
@@ -21,19 +21,19 @@
     "INTERACTIVE_MUTED": ["#5a4a1a"],
 
     "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_SECONDARY": ["#000000cc"],
-    "BACKGROUND_SECONDARY_ALT": ["#000000cc"],
-    "BACKGROUND_TERTIARY": ["#000000cc"],
-    "BACKGROUND_ACCENT": ["#000000cc"],
+    "BACKGROUND_SECONDARY": ["#00000000"],
+    "BACKGROUND_SECONDARY_ALT": ["#00000000"],
+    "BACKGROUND_TERTIARY": ["#00000000"],
+    "BACKGROUND_ACCENT": ["#00000000"],
 
     "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#000000cc"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
 
-    "BACKGROUND_MESSAGE_HOVER": ["#000000aa"],
-    "BACKGROUND_MODIFIER_HOVER": ["#000000aa"],
-    "BACKGROUND_MODIFIER_ACTIVE": ["#000000cc"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#000000aa"],
-    "BACKGROUND_MODIFIER_ACCENT": ["#000000cc"],
+    "BACKGROUND_MESSAGE_HOVER": ["#00000022"],
+    "BACKGROUND_MODIFIER_HOVER": ["#00000022"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#00000033"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#00000022"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#00000033"],
 
     "CHANNEL_ICON": ["#d4af37"],
     "CHAT_BACKGROUND": ["#00000000"],
@@ -41,32 +41,19 @@
 
     "TEXT_DANGER": ["#ff4d4d"],
 
-    "CARD_PRIMARY_BG": ["#000000cc"],
-    "CARD_SECONDARY_BG": ["#000000cc"],
+    "CARD_PRIMARY_BG": ["#00000000"],
+    "CARD_SECONDARY_BG": ["#00000000"],
 
-    "SPOILER_HIDDEN_BACKGROUND": ["#000000cc"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#00000033"]
   },
   "rawColors": {
     "BLACK_500": "#000000",
-
-    "PRIMARY_100": "#000000",
-    "PRIMARY_230": "#d4af37",
-    "PRIMARY_300": "#d4af37",
-    "PRIMARY_360": "#d4af37",
-    "PRIMARY_400": "#d4af37",
-    "PRIMARY_460": "#1a1a1a",
     "PRIMARY_500": "#d4af37",
-    "PRIMARY_600": "#000000",
-    "PRIMARY_700": "#000000",
-    "PRIMARY_800": "#000000",
-
-    "BRAND_260": "#d4af37",
     "BRAND_500": "#d4af37",
-
     "WHITE_500": "#d4af37"
   },
   "background": {
-    "blur": 0.2,
+    "blur": 0,
     "url": "https://i.imgur.com/8w0pYkX.jpeg",
     "alpha": 1.0
   }
